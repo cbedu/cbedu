@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I’m @cbudacity
+👯 I’m interested in learning.
+🌱 I’m currently learning as much as I can.
+
+
 
 <!--
 **cbedu/cbedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
